@@ -137,3 +137,8 @@ troubleshooting, see [configuration](docs/configuration.md).
 - [Garmin endpoint documentation](https://developer.garmin.com/gc-developer-program/personal/swagger-docs/)
 - [Claude Code MCP documentation](https://code.claude.com/docs/en/mcp)
 - [Official Python MCP SDK](https://py.sdk.modelcontextprotocol.io/)
+
+## License
+
+The code, skill instructions, and documentation are licensed under the
+[MIT License](LICENSE). Copyright (c) 2026 Veaceslav Mindru.
