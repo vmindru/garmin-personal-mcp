@@ -1,0 +1,13 @@
+.local/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.token
+api-key
+garmin_api_key
+snapshot-*.json
+.mcp.json
+.DS_Store
